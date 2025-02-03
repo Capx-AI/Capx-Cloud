@@ -230,4 +230,4 @@ By providing a structured mechanism for dispute resolution and penalty enforceme
 
 As of today, AI agent deployment on Capx Cloud is still under Mainnet-Beta, and therefore permissioned. With around 15 AI Agent Apps LIVE on Capx Cloud, if you wish to leverage Capx Cloud to test and deploy your AI Agent on our infrastructure kindly get in touch with the team by filling the following form. 
 
-[Google Form]([https://capx.ai](https://forms.gle/KM28h9jkQ6xoiWAFA))
+[Google Form](https://forms.gle/KM28h9jkQ6xoiWAFA)
